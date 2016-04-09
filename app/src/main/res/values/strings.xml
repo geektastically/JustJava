@@ -1,0 +1,41 @@
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!--Title for the application. Limit 12 Characters -->
+
+    <string name="app_name">Just Java</string>
+
+    <string name="name">Name</string>
+
+    <string name="toppings">Toppings</string>
+
+    <string name="whipped_cream">Whipped Cream</string>
+
+    <string name="chocolate">Chocolate</string>
+
+    <string name="quantity">Quantity</string>
+
+    <string name="initial_quantity_value">0</string>
+
+    <string name="order">Order</string>
+
+    <string name="order_summary_name">Name: <xliff:g id="customer_name" example="Amy"></xliff:g></string>
+
+    <string name="order_summary_whipped_cream">Add Whipped Cream? <xliff:g id="addWhippedCream" example="true"></xliff:g></string>
+
+    <string name="order_summary_chocolate">Add Chocolate?  <xliff:g id="addChocolate" example="true"></xliff:g></string>
+
+    <string name="order_summary_quantity">Quantity: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+
+    <string name="order_summary_price">Total: <xliff:g id="price" example="$10">%s</xliff:g></string>
+
+    <string name="thank_you">Thank You!</string>
+
+    <string name="order_summary_email_subject">Just Java For  <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+    <string name="no_negative_warning">Minimum Order is 1</string>
+
+    <string name="max_100_warning">No More than 99</string>
+
+
+</resources>
